@@ -25,12 +25,13 @@ body {
   background: #e3f4ff;
   text-align: center;
   margin: 8px;
+  padding: 8px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
-  margin-left: 140px;
+  margin-left: 120px;
   display: block;
-  padding: 8px;
+  padding: 8px 24px;
 }
